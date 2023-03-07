@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:
   - I love Drawing and Cooking!
-  - Data structures and Algorithms holds sweet spot in my heart of the many areas of CS
-  - I hold a B.E. in Computer Science and Engineering!
-
