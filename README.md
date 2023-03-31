@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on:
-  -  Building a classifier of obesity level 
+- 🔭 I’m currently working on understanding:
+  -  Transformers, Large Language Models, GPTs 
 - 🌱 I’m currently learning about:
   - Machine learning
   - Software Refactoring and Design
