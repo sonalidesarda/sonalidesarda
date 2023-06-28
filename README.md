@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on understanding:
   -  Transformers, Large Language Models, GPTs 
-- 🌱 I’m currently learning about:
-  - Machine learning
-  - Software Refactoring and Design
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:
   - I love Drawing and Cooking!
