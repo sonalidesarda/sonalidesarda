@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Sonali and I'm a Computer Science master student at Seattle University.
+My name is Sonali. Recently, I completed Master of Science in Computer Science from the Seattle University.
 <!--
 **sonalidesarda/sonalidesarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
