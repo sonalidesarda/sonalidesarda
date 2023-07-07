@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on understanding:
-  -  Transformers, Large Language Models, GPTs 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:
   - I love Drawing and Cooking!
